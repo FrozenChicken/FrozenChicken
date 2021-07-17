@@ -2,7 +2,7 @@
 - 👀 I’m interested in artifficial inteligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Mars
-- 📫 How to reach me @Aleksander Bartyzel
+- 📫 How to reach me on instagram @Aleksander Bartyzel
 
 <!---
 FrozenChicken/FrozenChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
